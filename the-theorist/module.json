@@ -1,0 +1,47 @@
+{
+  "id": "the-theorist",
+  "title": "The Theorist",
+  "version": "1.0.0",
+  "url": "https://github.com/ElioNagashi/The-Theorist",
+  "manifest": "https://raw.githubusercontent.com/ElioNagashi/The-Theorist/master/module.json",
+  "download": "https://github.com/ElioNagashi/The-Theorist/archive/refs/heads/main.zip",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Luc Dumain",
+      "url": "https://www.pathfinderinfinite.com/browse.php?author=Luc%20Dumain",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "the-theorist",
+      "label": "The Theorist",
+      "path": "packs/the-theorist",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ],
+   "flags": {
+  "the-theorist": {
+    "pf2e-homebrew": {
+      "featTraits": {
+        "theorist": "Theorist",
+        "Order": "Order"
+      },
+      "spellTraits": {
+        "theorist": "Theorist",
+        "Order": "Order"
+      }
+    }
+  }
+}
+}
