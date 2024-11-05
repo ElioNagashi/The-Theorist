@@ -1,9 +1,10 @@
 {
   "id": "the-theorist",
   "title": "The Theorist",
+  "description": "Theorize new spells and counter the rest with the Theorist!",
   "version": "1.0.0",
   "url": "https://github.com/ElioNagashi/The-Theorist",
-  "manifest": "https://raw.githubusercontent.com/ElioNagashi/The-Theorist/master/module.json",
+  "manifest": "https://raw.githubusercontent.com/ElioNagashi/The-Theorist/refs/heads/main/the-theorist/module.json",
   "download": "https://github.com/ElioNagashi/The-Theorist/archive/refs/heads/main.zip",
   "compatibility": {
     "minimum": "12",
